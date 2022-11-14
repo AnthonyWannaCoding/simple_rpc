@@ -1,1 +1,1 @@
-# simple_rpc
+# A simple Java RPC structure
